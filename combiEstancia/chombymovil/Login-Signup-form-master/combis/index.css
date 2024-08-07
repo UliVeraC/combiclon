@@ -1,0 +1,136 @@
+body {
+    background: #48c9b0;
+}
+
+.section-title {
+    color: azure;
+}
+
+#menu1 {
+    text-align: center;
+    background: rgb(255, 255, 255);
+    float: left;
+}
+
+#menu2 {
+
+    background: rgb(255, 255, 255);
+    border-left: 40px;
+    float: right;
+
+}
+
+.row {
+    margin-top: 40px;
+    height: 400px;
+}
+
+#copyright {
+    background: rgb(0, 0, 0);
+    border: rgb(255, 255, 255) 1px solid;
+    text-align: center;
+    height: 330px;
+    color: azure;
+}
+
+.upp {
+    height: 120px;
+}
+
+#campodoc {
+    text-align: center;
+}
+
+#asientos {
+    margin-top: 20px;
+    text-align: center;
+    height: 120px;
+}
+
+#camion {
+
+    background: white;
+    height: 199px;
+    width: 597px;
+    border: rgb(55, 0, 255) 1px solid;
+}
+
+#A1 {
+    background: greenyellow;
+    height: 66px;
+    width: 66px;
+    border: rgb(0, 0, 0) 1px solid;
+}
+
+#A2 {
+    background: greenyellow;
+    height: 66px;
+    width: 66px;
+    border: rgb(0, 0, 0) 1px solid;
+}
+
+#A3 {
+    background: rgb(255, 47, 47);
+    height: 66px;
+    width: 66px;
+    border: rgb(0, 0, 0) 1px solid;
+}
+
+#A4 {
+    float: right;
+    margin-left: 66px;
+    background: greenyellow;
+    height: 66px;
+    width: 66px;
+    border: rgb(0, 0, 0) 1px solid;
+}
+
+#A5 {
+    float: right;
+    background: greenyellow;
+    height: 66px;
+    width: 66px;
+    border: rgb(0, 0, 0) 1px solid;
+}
+
+#A6 {
+    float: right;
+    background: greenyellow;
+    height: 66px;
+    width: 66px;
+    border: rgb(0, 0, 0) 1px solid;
+}
+
+#A7 {
+    float: right;
+    background: greenyellow;
+    height: 66px;
+    width: 66px;
+    border: rgb(0, 0, 0) 1px solid;
+}
+
+#A8 {
+    float: right;
+    background: greenyellow;
+    height: 66px;
+    width: 66px;
+    border: rgb(0, 0, 0) 1px solid;
+}
+
+#A9 {
+    display: inline-block;
+    margin-top: 66px;
+    background: greenyellow;
+    height: 66px;
+    width: 66px;
+    border: rgb(0, 0, 0) 1px solid;
+}
+
+#A10 {
+    display: inline-block;
+    margin-top: 66px;
+    background: greenyellow;
+    height: 66px;
+    width: 66px;
+    border: rgb(0, 0, 0) 1px solid;
+}

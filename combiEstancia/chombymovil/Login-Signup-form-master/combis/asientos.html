@@ -1,0 +1,53 @@
+<head>
+    <meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Aereolinea</title>
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="asientos.css">
+    <script src="js/vuelos.js"></script>
+    <h1 class="section-title" style="background-color: rgb(0, 0, 0); height: 80px; text-align:center"> CONSULTA DE
+        COMBIS</h1>
+</head>
+
+<body>
+    <div class="container">
+        <div class="titulo">
+            <h1 class="section-title " style="text-align:center">Asientos</h1>
+        </div>
+        <div id="Datos">
+        </div>
+            <div class="btn">
+                <form action="reservaAsientos.php" method="post">
+                    <lottie-player src="https://assets5.lottiefiles.com/packages/lf20_1nieVZ.json" background="transparent"
+                    speed="1" style="justify-content: center;" loop autoplay></lottie-player><br>
+                    <input type="text"     name="numeroReserva"     placeholder="Numero de Registro"       id="numeroReserva"     required />
+                    <button><input type="submit" value="Reservar"></button>
+                </form>
+            </div>
+            <div id="asientos">
+                <div id="camion">
+                    <div class="Aatras" style="display: block;"></div>
+                    <div id="A4"></div>
+                    <div id="A5"></div>
+                    <div id="A6"></div>
+                    <div id="A7"></div>
+                    <div id="A8"></div>
+                    <div class="Adelante" style="display: block;"></div>
+                    <div id="A1"></div>
+                    <div id="A2"></div>
+                    <div id="A3"></div>
+                    <div class="Apuerta" style="display:inline;"></div>
+                    <div class="Acpuerta" style="display:inline;"></div>
+                </div>
+            </div>
+            <br>
+        <div id="copyright">
+            <div class="container">
+                <div class="abajo">
+                    <div class="col-md-12">
+                        <p>© Desarrollado por <a href="https://sii.upp.edu.mx/vista/comunes/vMenu.php"
+                                rel="nofollow">LID</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+</body>

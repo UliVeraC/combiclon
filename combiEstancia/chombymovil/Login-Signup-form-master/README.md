@@ -1,2 +1,0 @@
-# combiEstancia
-proyecto estancia
